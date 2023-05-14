@@ -1,5 +1,5 @@
-import person from "../../../assets/images/about_us/person.jpg";
 import parts from "../../../assets/images/about_us/parts.jpg";
+import person from "../../../assets/images/about_us/person.jpg";
 
 const About = () => {
   return (
@@ -20,13 +20,11 @@ const About = () => {
           <p className="py-6">
             There are many variations of passages of Lorem Ipsum available, but
             the majority have suffered alteration in some form, by injected
-            humour, or randomised words which don't look even slightly
-            believable.
+            humour, or random words which do not look even slightly believable.
           </p>
-          <p className="">
+          <p className="mb-2">
             the majority have suffered alteration in some form, by injected
-            humour, or randomised words which don't look even slightly
-            believable.
+            humour, or random words which do not look even slightly believable.
           </p>
           <button className="btn btn-primary border-0 bg-[#FF3811]">
             Get More Info
